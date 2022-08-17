@@ -14,7 +14,7 @@ module.exports = defineConfig({
     // disableHostCheck: true,
     // inline: true,
     // port: 8001,
-    proxy: 'http://192.168.1.210'
+    // proxy: 'http://192.168.1.210'
   },
   configureWebpack: {
     resolve: {
