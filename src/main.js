@@ -14,9 +14,6 @@ const app = createApp(App);
 
 app.config.productionTip = false;
 app.config.globalProperties.$axios = axios;
-// app.config.globalProperties.$Button = Button;
-// app.config.globalProperties.$Input = Input;
-// app.config.globalProperties.$Carousel = Carousel;
 app.config.globalProperties.$message = message;
 app.config.globalProperties.$alert = Alert;
 
